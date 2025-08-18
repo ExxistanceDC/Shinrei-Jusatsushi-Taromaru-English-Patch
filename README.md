@@ -1,7 +1,7 @@
 <img src="Images/TAROMARU-250818-143201.png" alt="Title Screen" width="700"/>
 
 
-# Shinrei-Jusatsushi-Taromaru-English-Patch
+# Shinrei Jusatsushi Taromaru *Psychic Killer Taromaru) English Patch
 An English patch for the Sega Saturn Japanese exclusive, Shinrei Jusatsushi Taromaru.
 
 Also known as Psychic Killer Taromaru or Psychic Assassin Taromaru. "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
