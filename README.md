@@ -41,6 +41,10 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
 7. Select the .ssp patch and click 'Open'
 8. Finally, select 'Build Image' and choose a directory to save it to
 
+**--> Important! <--**
+- Tested with Shinrei Jusatsushi Taroumaru (Japan)
+- Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions.
+
 ## **Credits**
 
 **Texture Art**
