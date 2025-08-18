@@ -1,3 +1,6 @@
+<img src="Images/TAROMARU-250818-143201.png" alt="Title Screen" width="700"/>
+
+
 # Shinrei-Jusatsushi-Taromaru-English-Patch
 An English patch for the Sega Saturn Japanese exclusive, Shinrei Jusatsushi Taromaru.
 
@@ -12,3 +15,43 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
 - Spelling mistake "Time Warner Intearctive" on Title screen fixed
 - In-game UI translated
 - Opening narration dubbed in English
+
+## **Screens**
+
+<!-- Row 1 -->
+<p>
+  <img src="Images/TAROMARU-250818-142700.png" width="500"/>
+  <img src="Images/TAROMARU-250818-142640.png" width="500"/>
+</p>
+
+<!-- Row 2 -->
+<p>
+  <img src="Images/TAROMARU-250818-142629.png" width="500"/>
+  <img src="Images/TAROMARU-250818-142557.png" width="500"/>
+</p>
+
+## **Credits**
+
+**Texture Art**
+- Exxistance
+
+**Translation**
+- Duralumin
+- Exxistance
+- TeDNeo
+
+**Poorly Done Voicework**
+- Exxistance
+
+**My Deepest Thanks**
+
+The SEGA community: Sega Saturn, Shiro! and SegaXtreme discords
+
+Malenko (for the fantastic Sega Saturn graphics tutorials)
+
+Duralumin (for jumping in to help)
+
+Derek "ateam" Pascarella (for always being helpful and giving so much time & resources to the community)
+
+Knight0fDragon (for building SegaSaturnPatcher)
+
