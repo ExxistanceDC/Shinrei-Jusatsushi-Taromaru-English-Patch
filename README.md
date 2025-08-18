@@ -30,6 +30,17 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
   <img src="Images/TAROMARU-250818-142557.png" width="500"/>
 </p>
 
+## **Patching Instructions**
+
+1. Unzip patch bundle
+2. Open SegaSaturnPatcher.exe
+3. After it opens, click 'Select Saturn Game'
+4. Next click "CD Image"
+5. Find your original disc image on your computer, then click 'Open'
+6. Click the '+ Game Patch (SSP)' button
+7. Select the .ssp patch and click 'Open'
+8. Finally, select 'Build Image' and choose a directory to save it to
+
 ## **Credits**
 
 **Texture Art**
