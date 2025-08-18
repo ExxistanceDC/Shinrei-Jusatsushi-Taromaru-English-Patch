@@ -56,13 +56,13 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
 
 **My Deepest Thanks**
 
-The SEGA community: Sega Saturn, Shiro! and SegaXtreme discords
+- The SEGA community: Sega Saturn, Shiro! and SegaXtreme discords
 
-Malenko (for the fantastic Sega Saturn graphics tutorials)
+- Malenko (for the fantastic Sega Saturn graphics tutorials)
 
-Duralumin (for jumping in to help)
+- Duralumin (for jumping in to help, providing amazing translation and knowledge)
 
-Derek "ateam" Pascarella (for always being helpful and giving so much time & resources to the community)
+- Derek "ateam" Pascarella (for always being helpful and giving so much time & resources to the community)
 
-Knight0fDragon (for building SegaSaturnPatcher)
+- Knight0fDragon (for building SegaSaturnPatcher)
 
