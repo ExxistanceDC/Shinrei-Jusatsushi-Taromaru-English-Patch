@@ -16,7 +16,7 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
 - In-game UI translated
 - Opening and ending narration dubbed in English
 
-#### **DUB??? The hell's wrong with you?!**
+#### **DUB??? You some kind of psychopath?!**
 
 I felt that some additional story clarification was needed for English speakers to help set the game up better (though to be fair, the game is essentially a beat 'em up, so it's not *that* necesssary). 
 
