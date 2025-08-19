@@ -14,7 +14,16 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
 - English title added to Title screen
 - Spelling mistake "Time Warner Intearctive" on Title screen fixed
 - In-game UI translated
-- Opening narration dubbed in English
+- Opening and ending narration dubbed in English
+
+#### **DUB??? The hell's wrong with you?!**
+
+I felt that some additional story clarification was needed for English speakers to help set the game up better (though to be fair, the game is essentially a beat 'em up, so it's not *that* necesssary). 
+
+But it's also why I'm offering two versions of the patch: 
+
+  1. One dubbed, that has all the texture updates
+  2. One in the original Japanese, that has all the texture updates
 
 ## **Screens**
 
@@ -43,7 +52,7 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
 
 **--> Important! <--**
 - Tested with Shinrei Jusatsushi Taroumaru (Japan)
-- Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions.
+- Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions. (Disregard this note if using the non-dubbed patch)
 
 ## **Credits**
 
@@ -60,7 +69,7 @@ This patched was created mostly as testbed for my Saturn romhacking skills, to s
 
 **My Deepest Thanks**
 
-- The SEGA community: Sega Saturn, Shiro! and SegaXtreme discords
+- The SEGA community: Sega Saturn, Shiro! and SegaXtreme Discords
 
 - Malenko (for the fantastic Sega Saturn graphics tutorials)
 
