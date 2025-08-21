@@ -4,7 +4,7 @@
 # Shinrei Jusatsushi Taromaru (Psychic Killer Taromaru) English Patch
 An English patch for the Sega Saturn Japanese exclusive, <a href=https://en.wikipedia.org/wiki/Shinrei_Jusatsushi_Tar%C5%8Dmaru>Shinrei Jusatsushi Taromaru.
 
-Also known as Psychic Killer Taromaru or Psychic Assassin Taromaru. "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
+Also known as Psychic Assassin Taromaru, Psychic Killer Taromaru, Psychic Warlock Assassin Taromaru...that said, "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
 
 
 
@@ -51,7 +51,7 @@ But it's also why I'm offering two versions of the patch:
 6. Click the '+ Game Patch (SSP)' button
 7. Select the either the dubbed or non-dubbed .ssp patch and click 'Open'
 8. Finally, select 'Build Image' and choose a directory to save it to
-9. Burn to disc or play in your favorite Sega Saturn emulator (Mednafen is recommended, Ymir as well. Yabasanshio is playable but seems to have some audio crackling on the latest public Windows released)
+9. Burn to disc and play in your Sega Saturn, or play in your favorite Sega Saturn emulator (Mednafen is recommended, Ymir as well. Yabasanshiro is playable but seems to have some audio crackling on the latest public Windows release)
 
 **--> Important! <--**
 - Tested with Shinrei Jusatsushi Taroumaru (Japan)
