@@ -4,7 +4,7 @@
 # Shinrei Jusatsushi Taromaru (Psychic Killer Taromaru) English Patch
 An English patch for the Sega Saturn Japanese exclusive, <a href=https://en.wikipedia.org/wiki/Shinrei_Jusatsushi_Tar%C5%8Dmaru>Shinrei Jusatsushi Taromaru.
 
-Also known as Psychic Assassin Taromaru, Psychic Killer Taromaru, Psychic Warlock Assassin Taromaru...that said, "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
+Also known as Psychic Assassin Taromaru, Psychic Warlock Assassin Taromaru, Divine Spirt Hunter Taromaru...that said, "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
 
 
 
