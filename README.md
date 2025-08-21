@@ -85,7 +85,7 @@ But it's also why I'm offering two versions of the patch:
 
 - Malenko (for the fantastic Sega Saturn graphics tutorials)
 
-- Duralumin (for jumping in to help, providing amazing translation and knowledge)
+- Duralumin (for jumping in to help, providing amazing translation and cultural knowledge)
 
 - Derek "ateam" Pascarella (for always being helpful and giving so much time & resources to the community)
 
