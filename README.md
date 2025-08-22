@@ -1,4 +1,4 @@
-<img src="Images/TAROMARU-250818-143201.png" alt="Title Screen" width="700"/>
+<div align="center"><img src="Images/Taromaru_art.png" alt="Title Screen" width="500"/></div>
 
 
 # Shinrei Jusatsushi Taromaru (Psychic Killer Taromaru) English Patch
@@ -55,7 +55,7 @@ But it's also why I'm offering two versions of the patch:
 
 **--> Important! <--**
 - Tested with Shinrei Jusatsushi Taroumaru (Japan)
-- Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions. (Disregard this note if using the non-dubbed patch)
+- Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions. (Disregard this if using the non-dubbed patch)
 
 ## **Helpful Game Notes**
 
