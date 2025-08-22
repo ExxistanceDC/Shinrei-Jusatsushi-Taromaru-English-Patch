@@ -4,21 +4,25 @@
 # Shinrei Jusatsushi Taromaru (Psychic Killer Taromaru) English Patch
 An English patch for the Sega Saturn Japanese exclusive, <a href=https://en.wikipedia.org/wiki/Shinrei_Jusatsushi_Tar%C5%8Dmaru>Shinrei Jusatsushi Taromaru.
 
-Also known as Psychic Assassin Taromaru, Psychic Warlock Assassin Taromaru, Divine Spirt Hunter Taromaru...that said, "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
+Also known as Psychic Assassin Taromaru, Psychic Warlock Assassin Taromaru, Divine Spirit Hunter Taromaru...
+
+All that's to say, "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
 
 
 
 ## **Overview**
-This patched was created mostly as testbed for my Saturn romhacking skills, to see if I could easily find and update textures. To that end, the following changes have been made:
+This patched was created mostly as testbed for my Saturn romhacking skills, to see if I could easily find and update textures. The game is very playable in the original Japanese, but even little items like having menus or icons in English makes for a more comfortable English-playing experience.
 
-- Opening credits translated to English
+To that end, the following changes have been made:
+
+- Opening/Ending credits translated to English
 - Fully translated Options menu
 - English title added to Title screen
 - Spelling mistake "Time Warner Intearctive" on Title screen fixed
 - In-game UI translated
 - Opening and ending narration dubbed in English
 
-#### **DUB??? You some kind of psychopath?!**
+#### **Wait, DUB??? You some kind of psychopath?!**
 
 I felt that some additional story clarification was needed for English speakers to help set the game up better (though to be fair, the game is essentially a beat 'em up, so it's not *that* necesssary). 
 
