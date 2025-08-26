@@ -82,6 +82,7 @@ But it's also why I'm offering two versions of the patch:
 
 **Testing**
 - Exxistance
+- zeed64
 
 **My Deepest Thanks**
 
