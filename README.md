@@ -6,12 +6,12 @@ An English patch for the Sega Saturn Japanese exclusive, <a href=https://en.wiki
 
 Also known as Psychic Assassin Taromaru, Psychic Warlock Assassin Taromaru, Divine Spirit Hunter Taromaru...
 
-All that's to say, "Psychic Killer Taromaru" seems to have gained steam as the colloquial Western name, so I'm rolling with that.
+All that's to say, "Psychic Killer Taromaru" seems to have gained traction as the colloquial Western name, so I'm rolling with that.
 
 
 
 ## **Overview**
-This patched was created mostly as testbed for my Saturn romhacking skills, to see if I could easily find and update textures. The game is very playable in the original Japanese, but even little items like having menus or icons in English makes for a more comfortable English-playing experience.
+This patch was created mostly as testbed for my Saturn romhacking skills, to see if I could easily locate and update textures in game files. The game is very playable in the original Japanese, but I feel like having small touches like menus or icons in English makes for a more comfortable experience for English-speaking audiences.
 
 To that end, the following changes have been made:
 
@@ -48,18 +48,18 @@ But it's also why I'm offering two versions of the patch:
 ## **Patching Instructions**
 
 1. Unzip patch bundle
-2. Open SegaSaturnPatcher.exe
-3. After it opens, click 'Select Saturn Game'
-4. Next click "CD Image"
-5. Find your original disc image on your computer, then click 'Open'
-6. Click the '+ Game Patch (SSP)' button
-7. Select the either the dubbed or non-dubbed .ssp patch and click 'Open'
-8. Finally, select 'Build Image' and choose a directory to save it to
+2. Open **'SegaSaturnPatcher.exe'**
+3. After it opens, click **'Select Saturn Game'**
+4. Next click **'CD Image'**
+5. Find your original disc image on your computer, then click **'Open'**
+6. Click the **'+ Game Patch (SSP)'** button
+7. Select the either the dubbed or non-dubbed .ssp patch and click **'Open'**
+8. Finally, select **'Build Image'** and choose a directory to save it to
 9. Burn to disc and play in your Sega Saturn, or play in your favorite Sega Saturn emulator (Mednafen is recommended, Ymir as well. Yabasanshiro is playable but seems to have some audio crackling on the latest public Windows release)
 
 **--> Important! <--**
 - Tested with Shinrei Jusatsushi Taroumaru (Japan)
-- Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions. (Disregard this if using the non-dubbed patch)
+- Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions. (Disregard if using the non-dubbed patch)
 
 ## **Helpful Game Notes**
 
