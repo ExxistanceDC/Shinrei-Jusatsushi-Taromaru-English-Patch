@@ -24,7 +24,7 @@ To that end, the following changes have been made:
 
 #### **Wait, DUB??? You some kind of psychopath?!**
 
-I felt that some additional story clarification was needed for English speakers to help set the game up better (though to be fair, the game is essentially a beat 'em up, so it's not *that* necesssary). 
+I felt that some additional story clarification was needed for English speakers to help set the game up better (though to be fair, the game is essentially a beat 'em up, so it's not *that* necessary). 
 
 But it's also why I'm offering two versions of the patch: 
 
