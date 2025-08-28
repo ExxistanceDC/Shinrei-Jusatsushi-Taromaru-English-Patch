@@ -65,7 +65,7 @@ But it's also why I'm offering two versions of the patch:
 
 1. In the Options screens, "HP Disp" turns on/off the boss life bars.
 2. Don't forget that you can recruit enemies to fight alongside you! Use the "Ally" button to hit 'em with your recruiting spirit magic.
-3. The **Skull** and **+** icons in the middle of the screen indicate the number of enemies you've killed and the health of your ally, respectively.
+3. The **Skull** and **+** icons in the top-middle part of the screen indicate the number of enemies you've killed and the health of your ally, respectively.
 
 ## **Credits**
 
