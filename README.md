@@ -60,6 +60,7 @@ But it's also why I'm offering two versions of the patch:
 **--> Important! <--**
 - Tested with Shinrei Jusatsushi Taroumaru (Japan)
 - Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions. (Disregard if using the non-dubbed patch)
+- You may need .NET version 5.0 for the above version of SegaSaturnPatcher.
 
 ## **Helpful Game Notes**
 
