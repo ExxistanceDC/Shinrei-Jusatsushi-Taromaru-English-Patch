@@ -96,3 +96,5 @@ But it's also why I'm offering two versions of the patch:
 
 - Knight0fDragon (for building SegaSaturnPatcher)
 
+- paulmet (Saturn hacker extraordinaire, the brains behind the screen resolution hack)
+
