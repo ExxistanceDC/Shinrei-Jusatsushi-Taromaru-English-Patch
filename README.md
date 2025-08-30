@@ -62,11 +62,19 @@ But it's also why I'm offering two versions of the patch:
 - Use the included version of SegaSaturnPatcher (1.95.8035.20705). This seems to handle the replacement CDDA tracks better than other versions. (Disregard if using the non-dubbed patch)
 - You may need .NET version 5.0 for the above version of SegaSaturnPatcher.
 
+## **Optional Increased Resolution Patch**
+
+So, I originally had this up as a release v1.1, but then I noticed that the increased resolution patch reveals some spritess in the opening cutscene that should be displayed at a later point. My apologies (still learnin' here!). It's still a great patch, but best for those were don't mind the early sprite reveal. I will link to it <a href=https://meduza-team.ucoz.net/publ/romkhaking/modifikacii/modifikacija_igr_dlja_sega_saturn/3-1-0-5>here.</a> 
+
+It is compatible with my release, just drop the files in per paulmet's ReadMe.
+
 ## **Helpful Game Notes**
 
 1. In the Options screens, "HP Disp" turns on/off the boss life bars.
 2. Don't forget that you can recruit enemies to fight alongside you! Use the "Ally" button to hit 'em with your recruiting spirit magic.
 3. The **Skull** and **+** icons in the top-middle part of the screen indicate the number of enemies you've killed and the health of your ally, respectively.
+
+
 
 ## **Credits**
 
