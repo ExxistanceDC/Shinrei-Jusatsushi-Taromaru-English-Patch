@@ -64,7 +64,7 @@ But it's also why I'm offering two versions of the patch:
 
 ## **Optional Increased Resolution Patch**
 
-So, I originally had this up as a release v1.1, but then I noticed that the increased resolution patch reveals some spritess in the opening cutscene that should be displayed at a later point. My apologies (still learnin' here!). It's still a great patch, but best for those were don't mind the early sprite reveal. I will link to it <a href=https://meduza-team.ucoz.net/publ/romkhaking/modifikacii/modifikacija_igr_dlja_sega_saturn/3-1-0-5>here.</a> 
+So, I originally had this up as a release v1.1, but then I noticed that the increased resolution patch reveals some sprites in the opening cutscene that should be displayed at a later point. My apologies (still learnin' here!). It's still a great patch, but best for those were don't mind the early sprite reveal. I will link to it <a href=https://meduza-team.ucoz.net/publ/romkhaking/modifikacii/modifikacija_igr_dlja_sega_saturn/3-1-0-5>here.</a> 
 
 It is compatible with my release, just drop the files in per paulmet's ReadMe.
 
